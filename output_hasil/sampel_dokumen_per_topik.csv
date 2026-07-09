@@ -1,0 +1,25 @@
+﻿topik,model,kategori,probabilitas,judul,bobot
+Topik 1,LDA,politik,0.9995,Langkah Andrie Yunus usai Kasusnya Dilimpahkan ke Puspom TNI,
+Topik 1,LDA,politik,0.9995,Koalisi: TGPF Lebih Penting dari Usulan Bentuk Hakim Ad Hoc,
+Topik 1,LDA,politik,0.9995,Kata Komnas HAM soal Usul Gibran Libatkan Hakim Ad Hoc di Kasus Andrie,
+Topik 2,LDA,olahraga,0.9994,Jadwal BATC 2026: Tim Putri Indonesia vs Korea Selatan Sabtu,
+Topik 2,LDA,olahraga,0.9994,Catatan PBSI setelah Raih 4 Gelar di Thailand Masters 2026,
+Topik 2,LDA,olahraga,0.9993,Hasil All England 2026: 6 Wakil Indonesia ke Perempat Final,
+Topik 3,LDA,ekonomi,0.9995,Ketika Anak Menjadi Konten Bentuk Eksploitasi Berbalut Ekonomi Atensi,
+Topik 3,LDA,teknologi,0.9995,Ketika Anak Menjadi Konten Bentuk Eksploitasi Berbalut Ekonomi Atensi,
+Topik 3,LDA,teknologi,0.9994,"Pendidikan Terus Berlari, Namun Nalar Terancam Tertinggal di Era AI",
+Topik 4,LDA,ekonomi,0.9994,"BI Proyeksi Ekonomi Global Melambat pada 2026, RI Tumbuh Hingga 5,7 Persen",
+Topik 4,LDA,ekonomi,0.9994,Apa Dampak Pelemahan Nilai Tukar Rupiah bagi Masyarakat,
+Topik 4,LDA,ekonomi,0.9993,"Usai Lebaran, Ekonomi ke Mana",
+Topik 1,NMF,olahraga,,Jepang: Kuda Hitam Piala Dunia 2026,0.1306
+Topik 1,NMF,olahraga,,Peluang Pemain Muda Merebut Tempat Utama di Timnas Indonesia,0.1305
+Topik 1,NMF,olahraga,,Wajah Baru Timnas Indonesia Era John Herdman,0.1304
+Topik 2,NMF,ekonomi,,Airlangga Klaim Perekonomian Indonesia Masih Baik,0.1529
+Topik 2,NMF,ekonomi,,"Bank Dunia Pangkas Pertumbuhan Ekonomi RI Jadi 4,7 Persen",0.1446
+Topik 2,NMF,ekonomi,,Wamenkeu: Windfall Revenue Tak Bisa untuk Jangka Panjang,0.1421
+Topik 3,NMF,teknologi,,Modernisasi Antena Stasiun Bumi dengan Teknologi Starlink,0.2119
+Topik 3,NMF,teknologi,,Tubuh Manusia Sepulang dari Antariksa,0.2045
+Topik 3,NMF,teknologi,,Tim Peneliti UI Buat Ragi Tempe yang Tahan Perubahan Iklim,0.2042
+Topik 4,NMF,politik,,Prabowo Dijadwalkan Berkunjung ke Rusia dalam Waktu Dekat,0.1902
+Topik 4,NMF,politik,,Prabowo akan Bertemu Putin di Rusia,0.1888
+Topik 4,NMF,politik,,Prabowo Bertolak ke Moskow Menjelang Tengah Malam,0.1887
