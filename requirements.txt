@@ -1,10 +1,11 @@
 streamlit
 pandas
-numpy
 matplotlib
 scikit-learn
 nltk
-gensim
+cython
+numpy
+gensim==4.3.3
 seaborn
 wordcloud
 Sastrawi
