@@ -1,0 +1,7 @@
+﻿topik,coherence_lda,coherence_nmf,selisih
+Topik 1,0.443,0.913,0.47
+Topik 2,0.5945,0.5503,-0.0442
+Topik 3,0.3663,0.986,0.6198
+Topik 4,0.5284,0.6087,0.0803
+RATA-RATA,0.483,0.7645,0.2815
+"LOG-PERPLEXITY (positif, kecil=baik)",10.1399,13.2893,tidak dapat dibandingkan langsung
